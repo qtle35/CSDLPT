@@ -1,0 +1,18 @@
+.nav-center {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .nav-item-text {
+    font-size: 24px; /* Increase the font size */
+    font-weight: bold; /* Make the text bold */
+  }
+  .nav-item-text__vertical {
+    text-orientation: upright; /* Hiển thị chữ ngang theo chiều dọc */
+    font-size: 20px; /* Đổi kích thước font chữ */
+    color: #ff4081; /* Đổi màu chữ */
+  }
+  
+  
+  
+    
